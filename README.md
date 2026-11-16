@@ -2,6 +2,8 @@
 A Minecraft 1.7.10 mod that makes all entities drop cooked or "smelted" loot if they die while on fire.
 
 Mainly for mods that did not add proper checks for loot. (There's more than you might think!)
+Only affects mobs that can actually be set on fire. 
+Mobs that are immune to fire do not have their loot smelted.
 
 Also works for mods to add loot such as EditMobDrops or Mine/CraftTweaker
 
