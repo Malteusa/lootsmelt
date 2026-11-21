@@ -5,7 +5,7 @@ This mod was made mainly for old mods that did not add proper checks for loot to
 
 Only affects mobs that can actually be set on fire. Mobs that are immune to fire will not have their drops smelted.
 
-Also works for custom drops added using [Edit Mob Drops](https://www.curseforge.com/minecraft/mc-mods/edit-mob-drops) or custom smelting recipes added by [Craft/Minetweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+Also works for custom drops added using [Edit Mob Drops](https://www.curseforge.com/minecraft/mc-mods/edit-mob-drops) or custom smelting recipes added/modified by [Craft/Minetweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 
 Or any other mod that adds custom loot to mobs.
 
