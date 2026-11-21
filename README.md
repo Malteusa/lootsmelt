@@ -10,5 +10,6 @@ Mobs that are immune to fire do not have their loot smelted.
 Also works for mods to add loot such as EditMobDrops or Mine/CraftTweaker
 
 
-## 
-**Note: Attempts to smelt ALL loot, not just food. Might cause certain issues for specific drops from mods.**
+## Notes
+* Attempts to smelt ALL loot, not just food. Might cause certain issues for specific drops from mods.
+* Certain mods might have weapons/items that set the entities on fire without Fire Aspect, these items will cause raw/uncooked drops if the entity dies in a single hit.
